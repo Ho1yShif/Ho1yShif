@@ -1,5 +1,5 @@
 ### Hi there, I'm Shif 🤝
-I'm a young professional looking to utilize my programming, statistics, and business skills to make a positive impact via data science, data analytics, and education. <br><br>
+I'm a data professional looking to make a positive impact via data science, data analytics, and education. <br><br>
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shifra-isaacs/)
 &nbsp;     [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14"> Email](mailto:shifraisaacs@gmail.com)
 &nbsp;
@@ -17,6 +17,10 @@ I'm a young professional looking to utilize my programming, statistics, and busi
 - 💭 Cloud: AWS EC2/S3, GCP/BigQuery, Jira 
 - 🛠 Backend: Data Cleaning, Data Mining, Machine Learning
 - 📋 Frontend: Dashboarding, Technical Writing, Stakeholder Presentations
+
+### Achievements 🏆
+- Named a data industry expert by [Coleman Research Group](https://www.colemanrg.com/)
+- Featured speaker at data quality executive roundtable event hosted by [Spectre Data](https://www.spectredata.com/) and [Madison Schott](https://www.linkedin.com/in/schottmadison)
 
 ### Current 🗓️
 - 🅰 Data Scientist at [Annalect](https://www.annalect.com/)
@@ -44,7 +48,7 @@ I'm a young professional looking to utilize my programming, statistics, and busi
 - Created interactive program for bass players and producers to experiment with sound
 - Resources: [Image](https://drive.google.com/file/d/19lunK3oAstEMQtdA2LK6TbXpkfBkPII_/view) | [Performance](https://drive.google.com/file/d/1dJ8IYeFnaSWpMQMjpGvmmJYJGp68x29U/view?usp=sharing) | [Maxpat](https://drive.google.com/file/d/1YaUdhs_axN_IZUWDhWUBhQ_HW6ZPyWyu/view?usp=sharing)
 
-*Note: All projects created in Python except for Bass Space, which is written in Max*
+*Note: All projects were created in Python except for Bass Space, which is written in Max*
 
 ### Interests
 - 🎵 Music and Audio Engineering | [Song](https://www.youtube.com/watch?v=pnHrRrjpf0Q&feature=youtu.be)
