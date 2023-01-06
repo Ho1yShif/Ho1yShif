@@ -29,9 +29,11 @@ I'm a data professional looking to make a positive impact via data science, data
 ### Projects 📚
 
 #### Classification of Fall Out Boy Eras
-- Used classification algorithms to determine if a machine can differentiate between musical styles
-- Extracted and cleaned a music dataset using Spotipy and LyricsGenius APIs with Regular Expressions
-- Developed logistic regression algorithm from scratch and implemented it as a neural network
+- Used classification algorithms to determine if a machine can differentiate between a band's musical styles
+- Built and cleaned a music database using Spotipy and LyricsGenius APIs with Regular Expressions 
+- Developed logistic regression algorithm from scratch in Python and NumPy
+- Implemented logistic regression as a single-layer neural network in PyTorch
+- Compared performance with other binary classification models
 - Resources: [Report](https://docs.google.com/document/d/1r6A2JHU6jtBoxAq3eWm2eP08l_u6KRtKTEpcoQXS84I/edit) | [Repository](https://github.com/Ho1yShif/FOB_LR_Public)
 
 #### NJ Flood Prediction and Mitigation
@@ -52,7 +54,7 @@ I'm a data professional looking to make a positive impact via data science, data
 
 ### Interests
 - 🎵 Music and Audio Engineering | [Song](https://www.youtube.com/watch?v=pnHrRrjpf0Q&feature=youtu.be)
-- 🎤 Voice Acting | [Sample](https://drive.google.com/drive/folders/1GRZ31VYyQkSdkZDMP6lc32muYjZvGtry) from [Requiem](https://www.roblox.com/games/9028852524/Requiem) (game)
+- 🎤 Voice Acting | [Sample](https://drive.google.com/drive/folders/1GRZ31VYyQkSdkZDMP6lc32muYjZvGtry) from [Requiem](https://www.roblox.com/games/9028852524/Requiem)
 - 📖 Reading and Creative Writing
 - 👩🏻‍🍳 Cooking
 - 🌎 Traveling
