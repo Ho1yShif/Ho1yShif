@@ -18,10 +18,6 @@ I'm a data professional looking to make a positive impact via data science, data
 - 🛠 Backend: Data Cleaning, Data Mining, Machine Learning
 - 📋 Frontend: Dashboarding, Technical Writing, Stakeholder Presentations
 
-### Achievements 🏆
-- Named a data industry expert by [Coleman Research Group](https://www.colemanrg.com/)
-- Featured speaker at data quality executive roundtable event hosted by [Spectre Data](https://www.spectredata.com/) and [Madison Schott](https://www.linkedin.com/in/schottmadison)
-
 ### Current 🗓️
 - 🅰 Data Scientist at [Annalect](https://www.annalect.com/)
 - 🍏 Technical Script Writer at [Complexly](https://complexly.com/)
