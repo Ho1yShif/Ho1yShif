@@ -14,7 +14,7 @@ I'm a data professional looking to make a positive impact via data science, data
 ### Core Competencies 💡
 - 💻 Code: Python, SQL, R, Java, Max
 - 📈 Analysis: Excel, Looker, Tableau
-- 💭 Cloud: AWS EC2/S3, GCP/BigQuery, Jira 
+- 💭 Cloud: AWS EC2/S3, GCP/BigQuery, Jira/Confluence
 - 🛠 Backend: Data Cleaning, Data Mining, Machine Learning
 - 📋 Frontend: Dashboarding, Technical Writing, Stakeholder Presentations
 
@@ -24,7 +24,7 @@ I'm a data professional looking to make a positive impact via data science, data
 
 ### Projects 📚
 
-#### Classification of Fall Out Boy Eras
+#### 🎸 Classification of Fall Out Boy Eras
 - Used classification algorithms to determine if a machine can differentiate between a band's musical styles
 - Built and cleaned a music database using Spotipy and LyricsGenius APIs with Regular Expressions 
 - Developed logistic regression algorithm from scratch in Python and NumPy
@@ -32,23 +32,23 @@ I'm a data professional looking to make a positive impact via data science, data
 - Compared performance with other binary classification models
 - Resources: [Report](https://docs.google.com/document/d/1r6A2JHU6jtBoxAq3eWm2eP08l_u6KRtKTEpcoQXS84I/edit) | [Repository](https://github.com/Ho1yShif/FOB_LR_Public)
 
-#### NJ Flood Prediction and Mitigation
+#### 🌊 NJ Flood Prediction and Mitigation
 - Researched methods of flood prediction and mitigation to combat climate change in NJ
 - Analyzed time series flood data in Python and ArcGIS to predict future water levels and flood events
 - Designed flood prediction and mitigation strategy using weather, geographic, and financial data
 - Resources: [Presentation](https://docs.google.com/presentation/d/13MLbYKmZbhku9h3XqiFmrV2p6uzkDECL71DOnnmPDoA/edit?usp=sharing) | [Repository](https://github.com/Ho1yShif/cgi_flood_prediction_mitigation)
 
-#### Scholastic Case Study
+#### 📕 Scholastic Case Study
 - Delivered data-driven marketing strategy within 6 days to increase Scholastic magazine subscriptions
 - Resources: [Presentation](https://docs.google.com/presentation/d/1byG2IWTIwEszTSkUKbFq27o5yR9ES3Z0/edit#slide=id.p1) | [Repository](https://github.com/Ho1yShif/Scholastic_Case_Study/tree/main)
 
-#### Bass Space
+#### 🎼 Bass Space
 - Created interactive program for bass players and producers to experiment with sound
 - Resources: [Image](https://drive.google.com/file/d/19lunK3oAstEMQtdA2LK6TbXpkfBkPII_/view) | [Performance](https://drive.google.com/file/d/1dJ8IYeFnaSWpMQMjpGvmmJYJGp68x29U/view?usp=sharing) | [Maxpat](https://drive.google.com/file/d/1YaUdhs_axN_IZUWDhWUBhQ_HW6ZPyWyu/view?usp=sharing)
 
 *Note: All projects were created in Python except for Bass Space, which is written in Max*
 
-### Interests
+### Interests 👌
 - 🎵 Music and Audio Engineering | [Song](https://www.youtube.com/watch?v=pnHrRrjpf0Q&feature=youtu.be)
 - 🎤 Voice Acting | [Sample](https://drive.google.com/drive/folders/1GRZ31VYyQkSdkZDMP6lc32muYjZvGtry) from [Requiem](https://www.roblox.com/games/9028852524/Requiem)
 - 📖 Reading and Creative Writing
