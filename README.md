@@ -21,6 +21,7 @@ I'm a data professional looking to make a positive impact via data science, data
 ### Current 🗓️
 - 🅰 Data Scientist at [Annalect](https://www.annalect.com/)
 - 🍏 Technical Script Writer at [Complexly](https://complexly.com/)
+- 📚 Data Programming Team Lead at [Podium Education](https://www.podiumeducation.com/)
 
 ### Projects 📚
 
