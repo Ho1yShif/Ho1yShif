@@ -5,7 +5,7 @@ I'm a data professional looking to make a positive impact via data science, data
 &nbsp;
 
 ### About Me ✨
-- 📊 Data Scientist with experience at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
+- 🏦 Data Scientist with experience at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
 - 👩🏻‍💻 Data Analyst with experience at [Prose](https://prose.com/)
 - 📝 Technical Writer with experience at [DataLemur](https://datalemur.com/)
 - 🎓 B.S. Analytics from Rutgers University
@@ -19,7 +19,7 @@ I'm a data professional looking to make a positive impact via data science, data
 - 📋 Frontend: Dashboarding, Technical Writing, Stakeholder Presentations
 
 ### Current 🗓️
-- 🅰 Data Scientist at [Annalect](https://www.annalect.com/)
+- 📊 Data Scientist at [Annalect](https://www.annalect.com/)
 - 🍏 Technical Script Writer at [Complexly](https://complexly.com/)
 - 📚 Data Programming Team Lead at [Podium Education](https://www.podiumeducation.com/)
 
