@@ -15,13 +15,12 @@ I'm a data professional looking to make a positive impact via data science, data
 - 💻 Code: Python, SQL, R, Java, Max
 - 📈 Analysis: Excel, Looker, Tableau
 - 💭 Cloud: AWS EC2/S3, GCP/BigQuery, Jira/Confluence
-- 🛠 Backend: Data Cleaning, Data Mining, Machine Learning
+- 🛠 Backend: Data Cleaning, Data Mining, Machine Learning, Django
 - 📋 Frontend: Dashboarding, Technical Writing, Stakeholder Presentations
 
 ### Current 🗓️
 - 📊 Data Scientist at [Annalect](https://www.annalect.com/)
 - 🍏 Technical Script Writer at [Complexly](https://complexly.com/)
-- 📚 Data Programming Team Lead at [Podium Education](https://www.podiumeducation.com/)
 
 ### Projects 📚
 
