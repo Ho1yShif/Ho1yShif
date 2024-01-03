@@ -7,20 +7,19 @@ I'm a data professional looking to make a positive impact via data science, data
 ### About Me ✨
 - 🏦 Data Scientist with experience at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
 - 👩🏻‍💻 Data Analyst with experience at [Prose](https://prose.com/)
-- 📝 Technical Writer with experience at [DataLemur](https://datalemur.com/)
+- 📝 Technical Writer with experience at [Crash Course](https://www.youtube.com/watch?v=OE0zAJLhZlM&list=PLID58IQe16nFgbHGRCj5QEXKUpVIilpDN&index=6) and [DataLemur](https://datalemur.com/)
 - 🎓 B.S. Analytics from Rutgers University
 - 🔎 Detail-oriented, dedicated, and driven
 
 ### Core Competencies 💡
 - 💻 Code: Python, SQL, R, Java, Max
 - 📈 Analysis: Excel, Looker, Tableau
-- 💭 Cloud: AWS EC2/S3, GCP/BigQuery, Jira/Confluence
+- 💭 Cloud: AWS S3, GCP/BigQuery, Jira/Confluence
 - 🛠 Backend: Data Cleaning, Data Mining, Machine Learning, Django
 - 📋 Frontend: Dashboarding, Technical Writing, Stakeholder Presentations
 
 ### Current 🗓️
 - 📊 Data Scientist at [Annalect](https://www.annalect.com/)
-- 🍏 Technical Script Writer at [Complexly](https://complexly.com/)
 
 ### Projects 📚
 
