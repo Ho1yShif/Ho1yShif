@@ -1,7 +1,10 @@
 ### Hi there, I'm Shif 🤝
 I'm a data professional looking to make a positive impact via data science, data analytics, and education. <br><br>
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shifra-isaacs/)
-&nbsp;     [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14"> Email](mailto:shifraisaacs@gmail.com)
+[![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg) Website](https://ho1yshif.github.io/)
+&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shifra-isaacs/) 
+&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14"> Email](mailto:shifraisaacs@gmail.com)
 &nbsp;
 
 ### About Me ✨
@@ -55,6 +58,9 @@ I'm a data professional looking to make a positive impact via data science, data
 - 🌎 Traveling
 
 ### Connect with Me 🔗
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shifra-isaacs/)
-&nbsp;     [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14"> Email](mailto:shifraisaacs@gmail.com)
+[![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg) Website](https://ho1yshif.github.io/)
+&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shifra-isaacs/) 
+&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14"> Email](mailto:shifraisaacs@gmail.com)
 &nbsp;
