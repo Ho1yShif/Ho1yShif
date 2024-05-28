@@ -1,5 +1,5 @@
 ### Hi there, I'm Shif 🤝
-I'm a data professional looking to make a positive impact via data science, data analytics, and education. <br><br>
+I'm a data professional looking to make a positive impact via data science, data work and education. <br><br>
 [![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg) Website](https://ho1yshif.github.io/)
 &nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shifra-isaacs/) 
