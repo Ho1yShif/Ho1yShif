@@ -26,6 +26,10 @@ I'm a data professional looking to make a positive impact via data science, data
 
 ### Projects 📚
 
+#### 🍎 Crash Course Programming
+- Wrote script and code snippets for 9 episodes of Crash Study Hall: Code and Programming for beginners
+- Resources: [Course Playlist](https://youtube.com/playlist?list=PLID58IQe16nFgbHGRCj5QEXKUpVIilpDN&si=Ppwq0nT03EurymfG) | [Repository](https://github.com/Ho1yShif/Crash_Course_Study_Hall_Code_and_Programming_for_Beginners)
+
 #### 🎸 Classification of Fall Out Boy Eras
 - Used classification algorithms to determine if a machine can differentiate between a band's musical styles
 - Built and cleaned a music database using Spotipy and LyricsGenius APIs with Regular Expressions 
