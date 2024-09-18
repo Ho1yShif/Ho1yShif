@@ -17,7 +17,7 @@ I'm a data professional looking to make a positive impact via data science, data
 ### Core Competencies 💡
 - 💻 Code: Python, SQL, Java, Lua, R, Max
 - 📈 Analysis: Excel, Tableau, Looker
-- 💭 Cloud: AWS S3, GCP/BigQuery, Jira/Confluence
+- 💭 Cloud: AWS S3, GCP/BigQuery, Jira/Confluence, DBT
 - 🛠 Backend: Data Cleaning, Data Mining, Machine Learning, Django
 - 📋 Frontend: Dashboarding, Technical Writing, Stakeholder Presentations
 
@@ -64,7 +64,7 @@ I'm a data professional looking to make a positive impact via data science, data
 ### Connect with Me 🔗
 [![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg) Website](https://ho1yshif.github.io/)
 &nbsp;
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shifra-isaacs/) 
+[![Linkedin_Icon](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shifra-isaacs/) 
 &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14"> Email](mailto:shifraisaacs@gmail.com)
 &nbsp;
