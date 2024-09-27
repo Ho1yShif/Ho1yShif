@@ -17,7 +17,7 @@ I'm a data professional looking to make a positive impact via data science, data
 ### Core Competencies 💡
 - 💻 Code: Python, SQL, Java, Lua, R, Max
 - 📈 Analysis: Excel, Tableau, Looker
-- 💭 Cloud: AWS S3, GCP/BigQuery, Jira/Confluence, DBT
+- 💭 Cloud: DBT, AWS S3, GCP/BigQuery, Jira/Confluence
 - 🛠 Backend: Data Cleaning, Data Mining, Machine Learning, Django
 - 📋 Frontend: Dashboarding, Technical Writing, Stakeholder Presentations
 
