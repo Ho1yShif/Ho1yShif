@@ -1,70 +1,25 @@
-### Hi there, I'm Shif 🤝
-I'm a data professional looking to make a positive impact via data science, analytics, and education. <br><br>
-[Ho1yShif.github.io](https://ho1yshif.github.io/)
-&nbsp; | &nbsp; 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shifra-isaacs/)
-&nbsp; | &nbsp; 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14"> Email](mailto:shifraisaacs@gmail.com)
-&nbsp;
+# Hi there, I'm Shif 👋
+I'm a passionate professional looking to make a positive impact via data and education. <br>
 
-### About Me ✨
-- 🏦 Data Scientist with experience at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/) and [Annalect](https://www.annalect.com/)
-- 📊 Data Analyst with experience at [Prose](https://prose.com/)
-- 📝 Technical Writer with experience at [Crash Course](https://www.youtube.com/watch?v=OE0zAJLhZlM&list=PLID58IQe16nFgbHGRCj5QEXKUpVIilpDN&index=6) and [DataLemur](https://datalemur.com/)
-- 🎓 B.S. Analytics from Rutgers University
-- 🔎 Detail-oriented, dedicated, and driven
+# 💫 About Me:
+🤝 Developer Advocate @ Ascend.io <br> 🏦 Data Scientist with experience at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/) and [Annalect](https://www.annalect.com/)<br>📊 Data Analyst with experience at [Prose](https://prose.com/)<br>📝 Technical Writer with experience at [Crash Course](https://www.youtube.com/watch?v=OE0zAJLhZlM&list=PLID58IQe16nFgbHGRCj5QEXKUpVIilpDN&index=6) and [DataLemur](https://datalemur.com/)<br>👩🏻‍💻 Technical Support Engineer with experience at [Sigma Computing](https://sigmacomputing.com/)<br>🎓 B.S. Analytics from Rutgers University<br>🔎 Detail-oriented, dedicated, and driven
 
-### Core Competencies 💡
-- 💻 Code: Python, SQL, Java, Lua, R, Max
-- 📈 Analysis: Excel, Tableau, Looker
-- 💭 Cloud: DBT, AWS S3, GCP/BigQuery, Jira/Confluence
-- 🛠 Backend: Data Cleaning, Data Mining, Machine Learning, Django
-- 📋 Frontend: Dashboarding, Technical Writing, Stakeholder Presentations
 
-### Current 🗓️
-- 👩🏻‍💻 Technical Support Engineer at [Sigma Computing](https://sigmacomputing.com/)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shifra-isaacs/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ShifraIsaacs@gmail.com)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HolyShif)
 
-### Projects 📚
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-#### 🍎 Crash Course Programming
-- Wrote script and code snippets for 9 episodes of Crash Study Hall: Code and Programming for beginners
-- Resources: [Course Playlist](https://youtube.com/playlist?list=PLID58IQe16nFgbHGRCj5QEXKUpVIilpDN&si=Ppwq0nT03EurymfG) | [Repository](https://github.com/Ho1yShif/Crash_Course_Study_Hall_Code_and_Programming_for_Beginners)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ho1yShif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ho1yShif&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho1yShif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### 🎸 Classification of Fall Out Boy Eras
-- Used classification algorithms to determine if a machine can differentiate between a band's musical styles
-- Built and cleaned a music database using Spotipy and LyricsGenius APIs with Regular Expressions 
-- Developed logistic regression algorithm from scratch in Python and NumPy
-- Implemented logistic regression as a single-layer neural network in PyTorch
-- Compared performance with other binary classification models
-- Resources: [Report](https://docs.google.com/document/d/1r6A2JHU6jtBoxAq3eWm2eP08l_u6KRtKTEpcoQXS84I/edit) | [Repository](https://github.com/Ho1yShif/FOB_LR_Public)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ho1yShif&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-#### 🌊 NJ Flood Prediction and Mitigation
-- Researched methods of flood prediction and mitigation to combat climate change in NJ
-- Analyzed time series flood data in Python and ArcGIS to predict future water levels and flood events
-- Designed flood prediction and mitigation strategy using weather, geographic, and financial data
-- Resources: [Presentation](https://docs.google.com/presentation/d/13MLbYKmZbhku9h3XqiFmrV2p6uzkDECL71DOnnmPDoA/edit?usp=sharing) | [Repository](https://github.com/Ho1yShif/cgi_flood_prediction_mitigation)
+---
+[![](https://visitcount.itsvg.in/api?id=Ho1yShif&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#### 📕 Scholastic Case Study
-- Delivered data-driven marketing strategy within 6 days to increase Scholastic magazine subscriptions
-- Resources: [Presentation](https://docs.google.com/presentation/d/1byG2IWTIwEszTSkUKbFq27o5yR9ES3Z0/edit#slide=id.p1) | [Repository](https://github.com/Ho1yShif/Scholastic_Case_Study/tree/main)
-
-#### 🎼 Bass Space
-- Created interactive program for bass players and producers to experiment with sound
-- Resources: [Image](https://drive.google.com/file/d/19lunK3oAstEMQtdA2LK6TbXpkfBkPII_/view) | [Performance](https://drive.google.com/file/d/1dJ8IYeFnaSWpMQMjpGvmmJYJGp68x29U/view?usp=sharing) | [Maxpat](https://drive.google.com/file/d/1YaUdhs_axN_IZUWDhWUBhQ_HW6ZPyWyu/view?usp=sharing)
-
-*Note: All projects were created in Python except for Bass Space, which is written in Max*
-
-### Interests 👌
-- 🎵 Music and Audio Engineering | [Song](https://www.youtube.com/watch?v=pnHrRrjpf0Q&feature=youtu.be)
-- 🎤 Voice Acting | [Sample](https://drive.google.com/drive/folders/1GRZ31VYyQkSdkZDMP6lc32muYjZvGtry) from [Requiem](https://www.roblox.com/games/9028852524/Requiem)
-- 📖 Reading and Creative Writing
-- 👩🏻‍🍳 Cooking
-- 🌎 Traveling
-
-### Connect with Me 🔗
-[![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg) Website](https://ho1yshif.github.io/)
-&nbsp;
-[![Linkedin_Icon](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shifra-isaacs/) 
-&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14"> Email](mailto:shifraisaacs@gmail.com)
-&nbsp;
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
