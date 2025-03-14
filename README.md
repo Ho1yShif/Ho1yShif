@@ -2,7 +2,7 @@
 I'm a passionate professional looking to make a positive impact via data and education. <br>
 
 # 💫 About Me:
-🤝 Developer Advocate @ Ascend.io <br> 🏦 Data Scientist with experience at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/) and [Annalect](https://www.annalect.com/)<br>📊 Data Analyst with experience at [Prose](https://prose.com/)<br>📝 Technical Writer with experience at [Crash Course](https://www.youtube.com/watch?v=OE0zAJLhZlM&list=PLID58IQe16nFgbHGRCj5QEXKUpVIilpDN&index=6) and [DataLemur](https://datalemur.com/)<br>👩🏻‍💻 Technical Support Engineer with experience at [Sigma Computing](https://sigmacomputing.com/)<br>🎓 B.S. Analytics from Rutgers University<br>🔎 Detail-oriented, dedicated, and driven
+📢 Developer Advocate @ Ascend.io <br> 🏦 Data Scientist with experience at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/) and [Annalect](https://www.annalect.com/)<br>📊 Data Analyst with experience at [Prose](https://prose.com/)<br>📝 Technical Writer with experience at [Crash Course](https://www.youtube.com/watch?v=OE0zAJLhZlM&list=PLID58IQe16nFgbHGRCj5QEXKUpVIilpDN&index=6) and [DataLemur](https://datalemur.com/)<br>👩🏻‍💻 Technical Support Engineer with experience at [Sigma Computing](https://sigmacomputing.com/)<br>🎓 B.S. Analytics from Rutgers University<br>🔎 Detail-oriented, dedicated, and driven
 
 
 ## 🌐 Socials:
