@@ -6,7 +6,7 @@ I'm a passionate professional looking to make a positive impact via data and edu
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shifra-isaacs/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ShifraIsaacs@gmail.com)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HolyShif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shifra-isaacs/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ShifraIsaacs@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ho1yShif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
