@@ -12,6 +12,6 @@ I'm a creative and passionate developer relations engineer looking to make a pos
 
 ## Connect with me
 
-[<img align="left" alt="Shif LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shifra-williams/)
+[<img align="left" alt="Shif LinkedIn" width="22px" src="assets/linkedin-white.svg" />](https://www.linkedin.com/in/shifra-williams/)
 
-[<img align="left" alt="ho1yshif.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ho1yshif.github.io)
+[<img align="left" alt="ho1yshif.github.io" width="22px" src="assets/globe-white.svg" />](https://ho1yshif.github.io)
