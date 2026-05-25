@@ -1,22 +1,17 @@
-# Hi there, I'm Shif 👋
-I'm a passionate professional looking to make a positive impact via software and education. <br>
+### Hi there, I'm Shif 👋
 
-# 💫 About Me:
-📢 Developer Relations Engineer @ [Render](https://github.com/renderinc) <br> 🏦 Data Scientist with experience at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/) and [Annalect](https://www.annalect.com/)<br>📊 Data Analyst with experience at [Prose](https://prose.com/)<br>📝 Technical Writer with experience at [Crash Course](https://www.youtube.com/watch?v=OE0zAJLhZlM&list=PLID58IQe16nFgbHGRCj5QEXKUpVIilpDN&index=6) and [DataLemur](https://datalemur.com/)<br>👩🏻‍💻 Technical Support Engineer with experience at [Sigma Computing](https://sigmacomputing.com/)<br>🎓 B.S. Analytics from Rutgers University<br>🔎 Detail-oriented, dedicated, and driven
+I'm a creative and passionate developer relations engineer looking to make a positive impact via software and education.
 
+## About me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shifra-isaacs/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ShifraIsaacs@gmail.com)
+📢 Developer Relations Engineer @ [Render](https://github.com/renderinc) <br> 🎙️ Co-founder and co-host of [Saturdata](https://saturdata.github.io), the data community podcast <br> 🏦 Data Scientist with experience at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/) and [Annalect](https://www.annalect.com/)<br>📊 Data Analyst with experience at [Prose](https://prose.com/)<br>📝 Technical Writer with experience at [Crash Course](https://www.youtube.com/watch?v=OE0zAJLhZlM&list=PLID58IQe16nFgbHGRCj5QEXKUpVIilpDN&index=6) and [DataLemur](https://datalemur.com/)<br>👩🏻‍💻 Technical Support Engineer with experience at [Sigma Computing](https://sigmacomputing.com/)<br>🎓 B.S. Analytics from Rutgers University<br>🔎 Detail-oriented, dedicated, and driven
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ho1yShif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ho1yShif&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho1yShif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## GitHub Stats
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ho1yShif&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Shif's GitHub stats](https://github-readme-stats-gray-eight-32.vercel.app/api?username=Ho1yShif&count_private=true&show_icons=true&hide=issues)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ho1yShif&icon=0&color=0)](https://visitcount.itsvg.in)
+## Connect with me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[<img align="left" alt="Shif LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shifra-williams/)
+
+[<img align="left" alt="ho1yshif.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ho1yshif.github.io)
